@@ -9,6 +9,8 @@ Link to <a href="https://secret-show-ymk.herokuapp.com/">SECRET SHOW</a> , let t
 
 <a href="https://github.com/yana-mkr/secret-show-v2"> Git Hub Link </a>
 
+<a href="https://yana-mkr.github.io/yana-mkr/"> Updated Portfolio Link </a>
+
 
 <img src="https://github.com/ds1242/secret-show-v2/blob/fix-date/media/Secret_Show_gif.gif"/>
 
